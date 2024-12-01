@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow as tff
 
 from keras.models import Model
 from keras.engine import InputSpec
